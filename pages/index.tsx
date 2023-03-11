@@ -106,7 +106,7 @@ export default function Home() {
           backgroundColor: loading ? "orange" : "grey",
         }}
         >
-          Mint my token
+          Mint my token upgrade
         </button>}
 
       </div>
